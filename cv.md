@@ -7,7 +7,6 @@ Email: masterjack0111@gmail.com<br/>
 GitHub: masterjack12
 Discord: Marina(@masterjack12)#4892
 
-
 ## About me
 ![photo](/images/myphoto1.jpg "my photo") <br/>
 Aspiring website builder specializing in websites and design. There are several projects in the portfolio. <br/>
@@ -26,7 +25,6 @@ function testSum(a, b) {
     x = a + b;
     return x;
 }
-
 ```
 ## Experience
 * my first github project: [rsschool-cv](https://github.com/masterjack12/rsschool-cv)
