@@ -1,0 +1,132 @@
+* {
+    font-family: 'Rubik', sans-serif;
+    font-size: 18px;
+}
+h1, h2, h3, h4, h5, h6 {
+    text-transform: uppercase;
+    margin: 0;
+    font-weight: 400;
+}
+h2 {
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 24px;
+}
+h3 {
+    font-size: 25px;
+    text-transform: none;
+}
+body {
+    background: #111;
+}
+ul {
+    list-style: none;
+    li {
+        margin: 7px 0;
+    }
+}
+a {
+    text-decoration: none;
+}
+.container {
+    max-width: 1000px;
+    margin: auto;
+    background-color: #222;
+    display: flex;
+}
+.line-orange {
+    border-bottom: 2px solid #ff892f;
+    margin-bottom: 20px;
+}
+.left-block {
+    width: 35%;
+}
+.right-block {
+    width: 65%;
+}
+
+.main-header {
+    .left-block {
+        background-image: url(/images/e6e1bc7716e6f53f16f1e5e6fbf34d34.jpg);
+        background-size: cover;
+        background-position-y: bottom;
+    }
+    .right-block {
+        padding: 60px 0;
+        .header-menu {
+            background-color: #ff892f;
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+            ul {
+                display: flex;
+                justify-content: flex-end;
+                width: 100%;
+                li {
+                    margin-right: 20px;
+                    a {
+                        text-transform: uppercase;
+                        color: #222;
+                        font-size: 20px;
+                        font-weight: 500;
+                    }
+                }
+            }
+        }
+        .header-title {
+            background-color: #ff892f;
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+            h1 {
+                color: #222;
+                font-size: 56px;
+                font-weight: 500;
+                padding: 20px;
+            }
+        }
+    }
+}
+.main-content {
+    .left-block {
+        padding: 20px;
+        padding-right: 0;
+        h2 {
+            color: #fff;
+        }
+        h3 {
+            color: #fff;
+        }
+        p {
+            color: #fff;
+        }
+        ul {
+            li {
+                color: #ff892f;
+                a {
+                    color: #ff892f;
+                }
+            }
+        }
+        
+    }
+    .right-block {
+        background-color: #fff;
+        padding: 20px;
+        h2 {
+            text-align: right;
+        }
+        p {
+            color: #222;
+        }
+        .code-example {
+            background-color: #222;
+            color: #ff892f;
+            display: flex;
+            padding: 30px;
+        }
+        a {
+            color: #222;
+        }
+    }
+}
