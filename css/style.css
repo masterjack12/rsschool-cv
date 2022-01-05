@@ -76,9 +76,15 @@ a {
   }
 }
 .main-header .left-block {
-  background-image: url(/images/avatarimg.jpg);
+  background: #ff892f;
   background-size: cover;
   background-position-y: bottom;
+  display: flex;
+  align-items: end;
+}
+.main-header .left-block img {
+  width: 100%;
+  height: fit-content;
 }
 .main-header .right-block {
   padding: 60px 0;
@@ -147,6 +153,9 @@ a {
   }
   .main-header .right-block .header-title h1 {
     font-size: 45px;
+  }
+  .main-header .left-block {
+    display: none;
   }
 }
 .main-content .left-block {
