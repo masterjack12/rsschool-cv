@@ -1,6 +1,6 @@
 # rsschool-cv
 
-https://github.com/masterjack12/rsschool-cv/blob/rsschool-cv-html/cv.md
+https://masterjack12.github.io/rsschool-cv/cv
 
-https://github.com/masterjack12/rsschool-cv/tree/gh-pages
+https://masterjack12.github.io/rsschool-cv/
 
