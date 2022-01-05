@@ -9,7 +9,7 @@ Discord: Marina(@masterjack12)#4892
 
 ## About me
 ![photo](/images/myphoto1.jpg "my photo") <br/>
-Aspiring website builder specializing in websites and design. There are several projects in the portfolio. <br/>
+I am 29 years old, I work as a taxi park manager.  I think I need in activities where I can develop during my life. That is why I`m here. My goal is to gain knowledge in the field of front-end development.<br/>
 
 ## Skills
 * HTML
@@ -38,7 +38,7 @@ function testSum(a, b) {
 ## Education
 * University: International Educational Corporation, bachelor of arts in speciality Architecture
 * Courses
-    + Course on udemy [Generation Python: A Beginner's Course](https://stepik.org/course/58852/syllabus)
+    + Course on stepik [Generation Python: A Beginner's Course](https://stepik.org/course/58852/syllabus)
     + Course on sololearn [HTML](https://www.sololearn.com/learning/1014)
 
 ## English
